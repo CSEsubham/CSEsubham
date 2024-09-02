@@ -111,9 +111,9 @@ On HackerRank, I delve into a wide array of coding challenges that test my skill
 Contact Me
 ==========
 
-Email: [subham@example.com](mailto:subham@example.com)
+Email: [mutnurisubham@gmail.com]
 
-Phone: [+91-123-456-7890](tel:+91-123-456-7890)
+Phone: [+91-9392893839]
 
 Feel free to reach out if you want to discuss a project, need assistance, or just want to connect!
 
