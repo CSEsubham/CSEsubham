@@ -1,6 +1,6 @@
    Subham Kumar M - Portfolio
 
-![icon](your-icon.png)
+
 
 Subham Kumar M
 ==============
