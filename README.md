@@ -1,123 +1,27 @@
-   Subham Kumar M - Portfolio
+<h1 align="center">Hi 👋, I'm Subham Kumar</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csesubham" alt="csesubham" /></a> </p>
 
+- 🌱 I’m currently learning **Node js**
 
-Subham Kumar M
-==============
+- 👨‍💻 All of my projects are available at [https://github.com/CSEsubham](https://github.com/CSEsubham)
 
-About Myself
-============
+- 💬 Ask me about **React**
 
-Hi there, I'm Subham Kumar M! 👋
+- 📫 How to reach me **Mutnurisubham@gmail.com**
 
-  
+- ⚡ Fun fact **I think i am good at coding**
 
-Welcome to my little corner of the internet! I'm currently a Computer Science and Engineering student at Gayatri Vidya Parishad College for PG and Degree, nestled in the beautiful city of Vizag.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/subham kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham kumar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/subham kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="subham kumar" height="30" width="40" /></a>
+</p>
 
-A Bit About Me:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-I'm on a quest to decode the world of technology, one line of code at a time. My toolkit includes **HTML, CSS, JavaScript, and Python, with a sprinkle of Java for flavor**. I enjoy diving into projects that challenge my skills and push me to learn more every day.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csesubham&show_icons=true&locale=en&layout=compact" alt="csesubham" /></p>
 
-*   **HTML/CSS:** I can make your website look like a million bucks (or at least a really nice cup of coffee).
-    
-*   **JavaScript:** If your website needs some pizzazz, I've got the scripts to make it dance.
-    
-*   **Python:** Whether it's web development, data science, or just automating my coffee orders, Python is my go-to.
-    
-*   **Java:** I'm not a Java ninja yet, but I can definitely brew up something useful.
-    
-*   **Power BI:** Turning data into visually compelling stories is my kind of fun.
-    
-*   **Excel:** I can tame the wildest spreadsheets, from pivot tables to complex formulas.
-    
-*   **MySQL:** The whole suite is my playground—I can make databases, presentations, and ER models look and work better than ever.
-    
-*   **Word:** Words are my second language, and Word is my favorite tool for speaking it.
-    
-
-  
-
-### Fun Fact:
-
-When I'm not coding, you might find me sketching, because even my doodles follow the DRY principle—Don't Repeat Yourself! 🎨
-
-My Skills
-=========
-
-### HTML5
-
-80%
-
-### CSS3
-
-95%
-
-### JavaScript
-
-75%
-
-### MySQL
-
-87%
-
-### Python
-
-85%
-
-Education Timeline
-==================
-
-2019-20**Narayana e-Techno School, Visakhapatnam**
-
-2020-22**Narayana Olympiad College, Visakhapatnam**
-
-2022-26**Gayatri Vidya Parishad College for PG and Degree, Visakhapatnam**
-
-My Coding Journey 🚀
-====================
-
-My coding adventure began with curiosity and a desire to build something impactful. Over time, I’ve sharpened my skills across various technologies, creating a diverse portfolio of projects that reflect my growth as a developer. Below, you can explore my work and contributions through different platforms.
-
-### W3Schools Profile
-
-[Check my W3Schools profile](https://www.w3profile.com/subhamkumar)
-
-W3Schools has been a significant part of my learning process. Here, I’ve worked on various exercises and projects, focusing on mastering the fundamentals of web development, including HTML, CSS, and JavaScript. My profile showcases some of the tasks I've completed and certificates earned along the way.
-
-### GitHub
-
-[Check my GitHub profile](https://github.com/CSEsubham)
-
-GitHub is where the magic happens! I’ve worked on numerous projects, ranging from small scripts to more complex applications. My repositories include web development projects, Python scripts, and even some experimental work in Java. Each project is a testament to my continuous learning and application of new concepts.
-
-### LeetCode
-
-[Check my LeetCode profile](https://leetcode.com/u/subham_kumar_m)
-
-I’m actively enhancing my problem-solving skills on LeetCode. It’s my go-to platform for tackling coding challenges and honing my algorithmic thinking. My profile reflects my dedication to becoming a better coder by solving problems across various difficulty levels.
-
-### LinkedIn
-
-[Check my LinkedIn profile](https://www.linkedin.com/in/subham-kumar-8048052a7)
-
-On LinkedIn, I share my professional journey, including academic achievements, certifications, and project experiences. It’s also where I connect with like-minded professionals and stay updated on industry trends.
-
-### HackerRank
-
-[Check my HackerRank profile](https://www.hackerrank.com/profile/mutnurisubham)
-
-On HackerRank, I delve into a wide array of coding challenges that test my skills in algorithms, data structures, and more. It’s a playground where I continually push my limits and learn new concepts.
-
-Contact Me
-==========
-
-Email: [mutnurisubham@gmail.com]
-
-Phone: [+91-9392893839]
-
-Feel free to reach out if you want to discuss a project, need assistance, or just want to connect!
-
-© 2024 Subham Kumar M. All rights reserved.
-
-[GitHub](https://github.com/CSEsubham) | [LinkedIn](https://www.linkedin.com/in/subham-kumar-8048052a7/)
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=csesubham&show_icons=true&locale=en" alt="csesubham" /></p>
