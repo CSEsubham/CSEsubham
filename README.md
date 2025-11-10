@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi there! 👋 I'm Subham Kumar, a passionate **Computer Science and Engineering (CSE)** student from India who loves building **websites, apps, and working with data**.</h2>
+<h2 align="left">Hi there! 👋 I'm Subham Kumar, a passionate Computer Science and Engineering (CSE) student from India who loves building websites, apps, and working with data.</h2>
 
 ---
 
@@ -117,4 +117,4 @@ I am actively looking for opportunities in:
 
 **Visitors Count:**
 
-[![](https://visitcount.itsvg.in/api?id=CSEsubham&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visitor Count](https://visitcount.itsvg.in/api?id=CSEsubham&icon=0&color=0)](https://visitcount.itsvg.in)
