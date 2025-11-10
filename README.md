@@ -23,11 +23,12 @@
 
 <br clear="both">
 
-### 🐍 My GitHub Activity Snake
+---
+
+## 🦎 Animated Profile View
 
 <div align="center">
-  ****
-  <img src="https://raw.githubusercontent.com/CSEsubham/CSEsubham/output/snake.svg" alt="GitHub Activity Snake" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CSEsubham&theme=dracula" alt="Subham's Profile Summary" />
 </div>
 
 ---
@@ -81,7 +82,11 @@ I am actively looking for opportunities in:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
 </div>
 
+---
 
+> **Tip:** Consider using the [GitHub Readme Project Display](https://github.com/marketplace/actions/readme-projects-display) Action to dynamically update this section with your latest pinned repositories!
+
+---
 
 ## 🔗 Connect With Me
 
@@ -114,5 +119,3 @@ I am actively looking for opportunities in:
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
-
-
