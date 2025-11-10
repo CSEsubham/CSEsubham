@@ -25,7 +25,7 @@
 
 ---
 
-## 🦎 Animated Profile View
+## 🦎 Dynamic Activity Summary
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CSEsubham&theme=dracula" alt="Subham's Profile Summary" />
@@ -83,6 +83,8 @@ I am actively looking for opportunities in:
 </div>
 
 ---
+
+## 🚀 My Latest Projects
 
 > **Tip:** Consider using the [GitHub Readme Project Display](https://github.com/marketplace/actions/readme-projects-display) Action to dynamically update this section with your latest pinned repositories!
 
