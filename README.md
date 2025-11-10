@@ -6,8 +6,6 @@
 
 <h2 align="left">Hi there! 👋 I'm Subham Kumar, a passionate **Computer Science and Engineering (CSE)** student from India who loves building **websites, apps, and working with data**.</h2>
 
-###
-
 ---
 
 ## 💻 My Dev Stats
@@ -18,10 +16,30 @@
 </div>
 
 ###
-
+**🔥 Daily Contribution Streak:** The stat below tracks your consecutive days of contributions!
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CSEsubham&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
+
+<br clear="both">
+
+### 🐍 My GitHub Activity Snake
+
+<div align="center">
+  ****
+  <img src="https://raw.githubusercontent.com/CSEsubham/CSEsubham/output/snake.svg" alt="GitHub Activity Snake" />
+</div>
+
+---
+
+## 🤝 Open To Collaboration
+
+I am actively looking for opportunities in:
+
+* **Collaboration work** on open-source or personal projects.
+* **Machine Learning projects** (development or research).
+* **Research internships**.
+* Available to become a **reviewer or PC member** for Machine Learning/Data mining journals or conferences.
 
 ---
 
@@ -54,7 +72,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="Tailwind CSS logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tailwindcss.svg" height="30" alt="Tailwind CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo" />
   <img width="12" />
@@ -63,7 +81,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="Figma logo" />
 </div>
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -96,5 +114,7 @@
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
+
+**Visitors Count:**
 
 [![](https://visitcount.itsvg.in/api?id=CSEsubham&icon=0&color=0)](https://visitcount.itsvg.in)
