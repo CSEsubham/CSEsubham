@@ -6,18 +6,6 @@
 
 <h2 align="left">Hi there! 👋 I'm Subham Kumar, a passionate Computer Science and Engineering (CSE) student from India who loves building websites, apps, and working with data.</h2>
 
----
-
-
-###
-**🔥 Daily Contribution Streak:** The stat below tracks your consecutive days of contributions!
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CSEsubham&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</div>
-
-<br clear="both">
-
----
 
 ## 🦎 Dynamic Activity Summary
 
